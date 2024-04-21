@@ -10,9 +10,8 @@
 
 ###
 
-<div align="right">
-  <img height="150" src="https://avatars.githubusercontent.com/u/41794802?v=4"  />
-</div>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/41794802?v=4"  />
+
 
 ###
 
