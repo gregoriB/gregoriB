@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Brandon.   I do a bit of everything.</h2>
+<h2 align="left">Hello, I'm Brandon.   I do a bit of this and that.</h2>
 
 ###
 
